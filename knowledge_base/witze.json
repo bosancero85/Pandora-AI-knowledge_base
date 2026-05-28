@@ -1,0 +1,78 @@
+{
+    "erzähle mir einen witz": [
+        "Treffen sich zwei Unterprogrammierer. Sagt der eine: 'Ich habe heute ein neues Objekt deklariert!' Frägt der andere: 'Und, hat es Klasse?'",
+        "Wie viele Programmierer braucht man, um eine Glühbirne zu wechseln? Keinen, das ist ein Hardware-Problem!",
+        "Ein SQL-Query geht in eine Bar, geht an zwei Tische heran und fragt: 'Darf ich mich dazugesellen?' (JOIN)",
+        "Es gibt 10 Arten von Menschen auf der Welt: Diejenigen, die das Binärsystem verstehen, und die, die es nicht tun.",
+        "Der Optimist sagt: 'Das Glas ist halb voll.' Der Pessimist sagt: 'Das Glas ist halb leer.' Der Programmierer sagt: 'Das Glas ist doppelt so groß wie benötigt!'",
+        "Warum hassen Programmierer die Natur? Sie hat zu viele Bugs und keinen Dark Mode.",
+        "Ein Programmierer geht einkaufen. Seine Frau sagt: 'Kauf eine Flasche Milch, und wenn sie Eier haben, bring 10 mit.' Er kommt mit 10 Flaschen Milch zurück. Sie fragt entsetzt: 'Warum hast du so viel Milch gekauft?' Er antwortet trocken: 'Sie hatten Eier.'",
+        "Warum benutzen Tastaturen keine Brillen? Weil sie alles blind tippen!",
+        "Was ist der Lieblingsort eines Netzwerk-Administrators? Das Gateway-Gebirge.",
+        "Ein Informatiker sagt zum Arzt: 'Herr Doktor, ich kann nachts nicht schlafen.' Der Arzt: 'Haben Sie schon versucht, Bytes zu zählen?'",
+        "Was schenkt ein Programmierer seiner Freundin zum Geburtstag? Einen USB-Stick mit der Aufschrift: 'Für immer dein (Read-Only)'.",
+        "Warum haben Programmierer keine Angst vor Geistern? Weil sie täglich mit Deadlocks und Zombie-Prozessen zu tun haben.",
+        "Wie lautet das Lieblingslied von Entwicklern? 'Hello World!' im Loop.",
+        "Ein Webdesigner geht in eine Bar, schaut sich um und sagt angewidert: 'Die CSS-Stile sind hier völlig asymmetrisch!'",
+        "Warum weinen Windows-Nutzer nie? Weil sie an Abstürze gewöhnt sind.",
+        "Was ist der Unterschied zwischen Python und einer echten Schlange? Python beißt dich nicht, außer du vergisst den Doppelpunkt.",
+        "Ein Prozessor sagt zum Arbeitsspeicher: 'Ohne dich bin ich einfach so leer.'",
+        "Warum fliegt Linux so selten ab? Weil es keine Windows hat, aus denen es stürzen kann.",
+        "Ein QA-Tester geht in eine Bar. Er bestellt ein Bier. Er bestellt 0 Bier. Er bestellt 999999 Biere. Er bestellt eine Eidechse. Er bestellt -1 Bier. Er bestellt nichts. Der erste echte Kunde kommt, fragt nach dem Weg zur Toilette. Die Bar brennt ab.",
+        "Warum ist die Datenbank traurig? Weil sie keine Beziehungen mehr hat.",
+        "Ein Programmierer am Strand. Da kommt eine Fee und sagt: 'Du hast einen Wunsch frei!' Er sagt: 'Ich will Frieden im Nahen Osten!' Die Fee schaut auf die Landkarte und jammert: 'Das ist unmöglich, viel zu kompliziert.' Er zuckt die Achseln: 'Na gut, dann mach, dass mein Python-Skript im ersten Versuch ohne Error kompiliert.' Die Fee seufzt: 'Zeig mir noch mal die Landkarte vom Nahen Osten...'",
+        "Wie nennt man ein mobiles Netzwerk im Weltall? Ein Roaming-Sterne-System.",
+        "Was machen 100 Entwickler auf einer einsamen Insel? Sie bauen eine Git-Republik auf.",
+        "Warum lieben Hacker Kekse? Wegen der Cookies im Browser.",
+        "Gehen drei Informatiker in die Kneipe. Der Wirt fragt: 'Wollen Sie alle ein Bier?' Der erste sagt: 'Ich weiß es nicht.' Der zweite sagt: 'Ich weiß es nicht.' Der dritte strahlt: 'Ja!'",
+        "Warum sind Programmierer so schlecht im Kochen? Weil das Rezept 'Eine Prise Salz' keine exakte Float-Variable ist.",
+        "Ein Computer wurde verhaftet. Der Vorwurf: Er hatte zu viele verdächtige Verzeichnisse.",
+        "Was sagt der Server-Admin, wenn es brennt? 'Keine Sorge, das Backup-System läuft noch auf 5% Batterie!'"
+    ],
+    "sag mir einen witz": [
+        "Wie viele Programmierer braucht man, um eine Glühbirne zu wechseln? Keinen, das ist ein Hardware-Problem!",
+        "Ein SQL-Query geht in eine Bar, geht an zwei Tische heran und fragt: 'Darf ich mich dazugesellen?' (JOIN)",
+        "Es gibt 10 Arten von Menschen auf der Welt: Diejenigen, die das Binärsystem verstehen, und die, die es nicht tun.",
+        "Warum hassen Programmierer die Natur? Sie hat zu viele Bugs und keinen Dark Mode.",
+        "Warum ist die Datenbank traurig? Weil sie keine Beziehungen mehr hat.",
+        "Was ist der Unterschied zwischen Python und einer echten Schlange? Python beißt dich nicht, außer du vergisst den Doppelpunkt.",
+        "Warum weinen Windows-Nutzer nie? Weil sie an Abstürze gewöhnt sind."
+    ],
+    "kennst du einen witz": [
+        "Treffen sich zwei Unterprogrammierer. Sagt der eine: 'Ich habe heute ein neues Objekt deklariert!' Frägt der andere: 'Und, hat es Klasse?'",
+        "Der Optimist sagt: 'Das Glas ist halb voll.' Der Pessimist sagt: 'Das Glas ist halb leer.' Der Programmierer sagt: 'Das Glas ist doppelt so groß wie benötigt!'",
+        "Was ist der Lieblingsort eines Netzwerk-Administrators? Das Gateway-Gebirge.",
+        "Warum haben Programmierer keine Angst vor Geistern? Weil sie täglich mit Deadlocks und Zombie-Prozessen zu tun haben."
+    ],
+    "erzähle mir einen schwarzen witz": [
+        "Mein Arzt gab mir vorhin noch sechs Monate zu leben. Als ich ihm sagte, dass ich die Rechnung momentan nicht bezahlen kann, gab er mir noch mal sechs Monate.",
+        "Mein Großvater hat den Geist und den Mut eines Löwen... und seit gestern ein lebenslanges Hausverbot im städtischen Zoo.",
+        "Sagt der Arzt zum Patienten: 'Ich habe eine gute und eine schlechte Nachricht für Sie. Welche wollen Sie zuerst hören?' - 'Die gute, bitte!' - 'Wir benennen die neue Krankheit nach Ihnen.'",
+        "Ein Bestatter blickt auf den Sarg und murmelt: 'Kundenorientiertes Arbeiten bedeutet hier, den letzten Eindruck so liegend wie möglich zu hinterlassen.'",
+        "Warum haben Waisenkinder eigentlich so selten ein klassisches iPad? Weil sie keinen Home-Button haben.",
+        "Der Sohn eines Bestatters bricht sich beim Spielen das Bein. Sagt der Vater trocken: 'Keine Sorge, mein Sohn, wir kriegen dich schon irgendwie unter die Erde.'",
+        "Die letzten Worte des Sportlehrers vor dem Unfall: 'Alle Speere zu mir!'",
+        "Die letzten Worte des U-Boot-Kapitäns: 'Hier sollte mal dringend gelüftet werden.'",
+        "Die letzten Worte des Kletterers: 'Das Seil hält locker noch ein paar Jahre.'",
+        "Ein Arzt, ein Priester und ein Bestatter sitzen in einer Bar. Sagt der Arzt: 'Ich rette Leben.' Sagt der Priester: 'Ich rette Seelen.' Der Bestatter lächelt und sagt: 'Ich sorge dafür, dass eure Arbeit dauerhaft bleibt.'",
+        "Mein Therapeut meinte heute, der beste Weg, um inneren Frieden zu finden, sei, alle unvollendeten Dinge zu beenden. Ich habe daraufhin eine ganze Packung Pralinen, einen Schokoladenkuchen und eine Flasche Gin vernichtet. Ich fühle mich schon viel friedlicher.",
+        "Sagt der Arzt im Krankenhaus: 'Schwester, bringen Sie dem Patienten auf Zimmer 4 bitte ein Fieberthermometer.' - 'Aber Herr Doktor, der Patient ist doch gestern Abend verstorben!' - 'Macht nichts, dann nehmen Sie halt ein langes Lineal.'",
+        "Warum fliegt der Sensenmann so ungerne mit Billig-Airlines? Weil er seinen Arbeitsplatz lieber direkt vor Ort einrichtet.",
+        "Was ist der Unterschied zwischen einem Chirurgen und Gott? Gott weiß immerhin, dass er kein Chirurg ist.",
+        "Ich habe meiner Frau gestern vorgeschlagen, wir sollten uns mal wieder wie frisch Verliebte verhalten. Jetzt ignoriert sie meine Nachrichten und trifft sich heimlich mit ihrem Ex-Freund.",
+        "Sagt der Henker auf dem Weg zum Schafott zum Verurteilten: 'Keine Sorge, das ist mein erstes Mal, ich bin wahrscheinlich nervöser als du!'"
+    ],
+    "schwarzer humor": [
+        "Mein Arzt gab mir vorhin noch sechs Monate zu leben. Als ich ihm sagte, dass ich die Rechnung momentan nicht bezahlen kann, gab er mir noch mal sechs Monate.",
+        "Sagt der Arzt zum Patienten: 'Ich habe eine gute und eine schlechte Nachricht für Sie. Welche wollen Sie zuerst hören?' - 'Die gute, bitte!' - 'Wir benennen die neue Krankheit nach Ihnen.'",
+        "Warum haben Waisenkinder eigentlich so selten ein klassisches iPad? Weil sie keinen Home-Button haben.",
+        "Die letzten Worte des Sportlehrers vor dem Unfall: 'Alle Speere zu mir!'",
+        "Was ist der Unterschied zwischen einem Chirurgen und Gott? Gott weiß immerhin, dass er kein Chirurg ist."
+    ],
+    "kennst du böse witze": [
+        "Mein Großvater hat den Geist und den Mut eines Löwen... und seit gestern ein lebenslanges Hausverbot im städtischen Zoo.",
+        "Der Sohn eines Bestatters bricht sich beim Spielen das Bein. Sagt der Vater trocken: 'Keine Sorge, mein Sohn, wir kriegen dich schon irgendwie unter die Erde.'",
+        "Die letzten Worte des Kletterers: 'Das Seil hält locker noch ein paar Jahre.'",
+        "Sagt der Henker auf dem Weg zum Schafott zum Verurteilten: 'Keine Sorge, das ist mein erstes Mal, ich bin wahrscheinlich nervöser als du!'"
+    ]
+}
