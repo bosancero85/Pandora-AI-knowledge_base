@@ -174,7 +174,7 @@
     "comprehensions": [
         "<br>List Comprehensions erlauben es, Listen in einer einzigen, eleganten Zeile zu erstellen.<br>Syntax: [x*2 for x in range(10)]",
         "<br>Comprehensions machen deinen Code kompakter, sind in Python extrem schnell und funktionieren auch für Dictionaries und Sets."
-    ], 
+    ],
     "pickle": [
         "<br>Das 'pickle'-Modul wird zur Serialisierung und Deserialisierung von Python-Objektstrukturen verwendet (auch 'Pickling' genannt).<br>Es wandelt Objekte in Byte-Streams um.",
         "<br>Mit Pickle kannst du komplexe Python-Objekte (wie Klassen-Instanzen oder verschachtelte Dicts) direkt als Binärdatei speichern und exakt so wieder laden."
@@ -222,7 +222,7 @@
     "pillow": [
         "<br>Pillow (PIL) ist die Standard-Bibliothek zur Bildverarbeitung in Python.<br>Damit kannst du Bilder öffnen, beschneiden, Filter anwenden oder Texte in Bilder rendern.",
         "<br>Egal ob du Avatare generieren, Bildformate konvertieren oder Grafiken manipulieren willst – Pillow liefert die einfachsten Tools dafür."
-    ], 
+    ],
     "langchain": [
         "<br>LangChain ist ein mächtiges Framework zur Entwicklung von Anwendungen, die auf Large Language Models (LLMs) basieren.<br>Es verbindet KI-Modelle mit externen Datenquellen.",
         "<br>Mit LangChain kannst du komplexe Chatbots, Agenten oder automatisierte Datenanalysen bauen, indem du LLMs (wie GPT oder Claude) in deine Python-Pipelines integrierst."
@@ -366,7 +366,7 @@
     "mro": [
         "<br>MRO steht für Method Resolution Order. Es ist die feste Reihenfolge, in der Python bei der Mehrfachvererbung nach Methoden in den Elternklassen sucht.",
         "Über das Attribut '__mro__' oder die Funktion 'super()' steuert Python exakt, welche Elternklasse zuerst aufgerufen wird, um den berüchtigten Diamond-Fehler (Namenskonflikte) zu verhindern."
-    ], 
+    ],
     "singleton pattern": [
         "<br>Das Singleton-Pattern stellt sicher, dass von einer Klasse nur eine einzige Instanz existiert und bietet einen globalen Zugriffspunkt darauf.<br>Häufig genutzt für Konfigurations- oder Datenbank-Manager.",
         "<br>In Python lässt sich ein Singleton elegant über die '__new__'-Methode implementieren. Es verhindert, dass im Programmverlauf versehentlich redundante Verbindungen oder Instanzen geöffnet werden."
@@ -462,7 +462,7 @@
     "ip-spoofing": [
         "<br>IP-Spoofing bezeichnet das Fälschen der Quell-IP-Adresse in Netzwerkpaketen, um die Identität des Absenders zu verschleiern oder Systeme zu täuschen.",
         "<br>Beim Schreiben von Sicherheits-Tools in Python (z. B. mit Scapy) kann man die IP-Header manipulieren, um die Reaktion von Firewalls auf gefälschte Pakete zu testen."
-    ], 
+    ],
     "metaclasses": [
         "<br>Metaklassen sind die 'Baupläne für Baupläne'. Während eine normale Klasse bestimmt, wie ein Objekt erstellt wird, bestimmt eine Metaklasse, wie eine Klasse erstellt wird.",
         "<br>In Python erbt standardmäßig jede Klasse von 'type'. Durch das Schreiben einer eigenen Metaklasse kannst du das Verhalten und die Struktur von Klassen schon beim Definieren dynamisch modifizieren oder validieren."
@@ -595,7 +595,7 @@
         "<br>Dieses Muster entkoppelt deine Software-Komponenten vollständig und macht den Code extrem flexibel erweiterbar.",
         "<br>Der größte Vorteil liegt im Unit-Testing: Du kannst echte Datenbank-Klassen einfach durch Test-Objekte (Mocks) ersetzen."
     ],
-        "garbage collection tuning": [
+    "garbage collection tuning": [
         "<br>Über das eingebaute 'gc'-Modul kannst du die automatische Speicherbereinigung von Python direkt steuern, Schwellenwerte anpassen oder die GC komplett deaktivieren.",
         "<br>In performance-kritischen Schleifen oder bei Echtzeitanwendungen kann es sinnvoll sein, die Garbage Collection temporär per 'gc.disable()' auszuschalten.",
         "<br>Mithilfe von 'gc.set_threshold()' lässt sich bestimmen, wie aggressiv Python in den drei verschiedenen Generationen nach ungenutztem Speicher sucht.",
@@ -882,6 +882,8 @@
         "<br>Ein bewährter Ansatz ist die Nutzung von 'Lock-Timeouts': Kann ein Thread ein Lock nach x Sekunden nicht kriegen, bricht er ab, statt ewig zu blockieren.",
         "<br>Zudem sollten Threads Ressourcen niemals einzeln und nacheinander sperren, sondern alle benötigten Sperren in einer einzigen atomaren Operation anfordern.",
         "<br>Durch saubere Software-Architektur und den Verzicht auf tief verschachtelte Locks lassen sich Deadlocks bereits in der Designphase komplett ausschließen."
+    ],
+    "qwen2.5-coder:1.5b": [
+        "It looks like you're referring to a specific version of the Qwen model, specifically `qwen2.5-coder`, which is based on OpenAI's GPT-4 architecture with additional features. The version `1.5b` indicates that this is a 1.5 billion parameter model.\n\nTo use this model in a programming environment like Python, you would typically load it using a library such as Hugging Face's `transformers` package. Here's an example of how you might do this:\n\n```python\nfrom transformers import GPT2LMHeadModel, GPT2Tokenizer\n\n# Load the tokenizer and the model\ntokenizer = GPT2Tokenizer.from_pretrained('qwen2.5-coder')\nmodel = GPT2LMHeadModel.from_pretrained('qwen2.5-coder')\n\n# Now you can use the model for text generation or any other task\ninput_text = \"Hello, how are you?\"\ninputs = tokenizer(input_text, return_tensors='pt')\noutputs = model(**inputs)\n\nprint(outputs)\n```\n\nMake sure to install the `transformers` library if it's not already installed:\n\n```bash\npip install transformers\n```\n\nThis code snippet will load the Qwen2.5-coder model along with its tokenizer and prepare input for text generation. You can then use this model to generate responses or perform other tasks related to natural language processing."
     ]
-
 }
